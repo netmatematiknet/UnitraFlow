@@ -1,0 +1,42 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory android:title="@string/pref_theme">
+    <ListPreference
+        android:key="theme_mode"
+        android:title="@string/pref_theme"
+        android:defaultValue="system"
+        android:entries="@array/theme_entries"
+        android:entryValues="@array/theme_values" />
+
+    <ListPreference
+        android:key="lang"
+        android:title="@string/pref_language"
+        android:defaultValue="en"
+        android:entries="@array/lang_entries"
+        android:entryValues="@array/lang_values" />
+  </PreferenceCategory>
+
+  <PreferenceCategory android:title="@string/pref_ads">
+    <SwitchPreferenceCompat
+        android:key="ads_enabled"
+        android:title="@string/pref_enable_ads"
+        android:defaultValue="true" />
+
+    <EditTextPreference
+        android:key="banner_id"
+        android:title="@string/pref_banner_id"
+        android:defaultValue="@string/admob_banner_test" />
+
+    <EditTextPreference
+        android:key="interstitial_id"
+        android:title="@string/pref_interstitial_id"
+        android:defaultValue="@string/admob_interstitial_test" />
+
+    <SeekBarPreference
+        android:key="interstitial_prob"
+        android:title="@string/pref_interstitial_prob"
+        android:defaultValue="20"
+        android:max="100" />
+  </PreferenceCategory>
+
+</PreferenceScreen>

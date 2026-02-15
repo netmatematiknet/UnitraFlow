@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">UnitraFlow</string>
+  <string name="cat_length">Longitud</string>
+  <string name="cat_mass">Masa</string>
+  <string name="cat_temperature">Temperatura</string>
+  <string name="cat_volume">Volumen</string>
+  <string name="menu_settings">Ajustes</string>
+  <string name="menu_other_apps">Otras apps</string>
+  <string name="hint_value">Valor</string>
+  <string name="hint_from_unit">Unidad origen</string>
+  <string name="hint_to_unit">Unidad destino</string>
+  <string name="btn_swap">Cambiar</string>
+  <string name="result">Resultado</string>
+  <string name="settings_title">Ajustes</string>
+  <string name="pref_ads">Anuncios</string>
+  <string name="pref_enable_ads">Activar anuncios</string>
+  <string name="pref_banner_id">Banner Ad Unit ID</string>
+  <string name="pref_interstitial_id">Interstitial Ad Unit ID</string>
+  <string name="pref_interstitial_prob">Probabilidad intersticial (0–100)</string>
+  <string name="pref_theme">Tema</string>
+  <string name="pref_language">Idioma</string>
+  <string name="theme_system">Sistema</string>
+  <string name="theme_light">Claro</string>
+  <string name="theme_dark">Oscuro</string>
+  <string name="other_apps_title">Otras apps</string>
+  <string name="open_developer_page">Abrir página del desarrollador</string>
+</resources>

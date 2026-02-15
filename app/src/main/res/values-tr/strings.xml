@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">UnitraFlow</string>
+  <string name="cat_length">Uzunluk</string>
+  <string name="cat_mass">Kütle</string>
+  <string name="cat_temperature">Sıcaklık</string>
+  <string name="cat_volume">Hacim</string>
+  <string name="menu_settings">Ayarlar</string>
+  <string name="menu_other_apps">Diğer Uygulamalarımız</string>
+  <string name="hint_value">Değer</string>
+  <string name="hint_from_unit">Birim (Kaynak)</string>
+  <string name="hint_to_unit">Birim (Hedef)</string>
+  <string name="btn_swap">Değiştir</string>
+  <string name="result">Sonuç</string>
+  <string name="settings_title">Ayarlar</string>
+  <string name="pref_ads">Reklam</string>
+  <string name="pref_enable_ads">Reklamları aç</string>
+  <string name="pref_banner_id">Banner Reklam ID</string>
+  <string name="pref_interstitial_id">Geçiş Reklam ID</string>
+  <string name="pref_interstitial_prob">Geçiş reklam olasılığı (0–100)</string>
+  <string name="pref_theme">Tema</string>
+  <string name="pref_language">Dil</string>
+  <string name="theme_system">Sistem</string>
+  <string name="theme_light">Açık</string>
+  <string name="theme_dark">Koyu</string>
+  <string name="other_apps_title">Diğer Uygulamalarımız</string>
+  <string name="open_developer_page">Geliştirici sayfasını aç</string>
+</resources>

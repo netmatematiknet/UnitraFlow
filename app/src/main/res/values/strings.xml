@@ -1,0 +1,40 @@
+<resources>
+  <string name="app_name">UnitraFlow</string>
+
+  <!-- Categories -->
+  <string name="cat_length">Length</string>
+  <string name="cat_mass">Mass</string>
+  <string name="cat_temperature">Temperature</string>
+  <string name="cat_volume">Volume</string>
+
+  <!-- UI -->
+  <string name="menu_settings">Settings</string>
+  <string name="menu_other_apps">Other Apps</string>
+  <string name="hint_value">Value</string>
+  <string name="hint_from_unit">From unit</string>
+  <string name="hint_to_unit">To unit</string>
+  <string name="btn_swap">Swap</string>
+  <string name="result">Result</string>
+
+  <!-- Settings -->
+  <string name="settings_title">Settings</string>
+  <string name="pref_ads">Ads</string>
+  <string name="pref_enable_ads">Enable ads</string>
+  <string name="pref_banner_id">Banner Ad Unit ID</string>
+  <string name="pref_interstitial_id">Interstitial Ad Unit ID</string>
+  <string name="pref_interstitial_prob">Interstitial probability (0–100)</string>
+  <string name="pref_theme">Theme</string>
+  <string name="pref_language">Language</string>
+  <string name="theme_system">System</string>
+  <string name="theme_light">Light</string>
+  <string name="theme_dark">Dark</string>
+
+  <!-- Other Apps -->
+  <string name="other_apps_title">Other Apps</string>
+  <string name="open_developer_page">Open developer page</string>
+
+  <!-- AdMob TEST defaults -->
+  <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+  <string name="admob_banner_test">ca-app-pub-3940256099942544/6300978111</string>
+  <string name="admob_interstitial_test">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

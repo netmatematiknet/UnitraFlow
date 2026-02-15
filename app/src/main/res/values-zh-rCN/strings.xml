@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">UnitraFlow</string>
+  <string name="cat_length">长度</string>
+  <string name="cat_mass">质量</string>
+  <string name="cat_temperature">温度</string>
+  <string name="cat_volume">体积</string>
+  <string name="menu_settings">设置</string>
+  <string name="menu_other_apps">其他应用</string>
+  <string name="hint_value">数值</string>
+  <string name="hint_from_unit">原单位</string>
+  <string name="hint_to_unit">目标单位</string>
+  <string name="btn_swap">交换</string>
+  <string name="result">结果</string>
+  <string name="settings_title">设置</string>
+  <string name="pref_ads">广告</string>
+  <string name="pref_enable_ads">启用广告</string>
+  <string name="pref_banner_id">Banner 广告位 ID</string>
+  <string name="pref_interstitial_id">插屏广告位 ID</string>
+  <string name="pref_interstitial_prob">插屏概率 (0–100)</string>
+  <string name="pref_theme">主题</string>
+  <string name="pref_language">语言</string>
+  <string name="theme_system">跟随系统</string>
+  <string name="theme_light">浅色</string>
+  <string name="theme_dark">深色</string>
+  <string name="other_apps_title">其他应用</string>
+  <string name="open_developer_page">打开开发者页面</string>
+</resources>

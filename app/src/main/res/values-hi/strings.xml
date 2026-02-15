@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">UnitraFlow</string>
+  <string name="cat_length">लंबाई</string>
+  <string name="cat_mass">द्रव्यमान</string>
+  <string name="cat_temperature">तापमान</string>
+  <string name="cat_volume">आयतन</string>
+  <string name="menu_settings">सेटिंग्स</string>
+  <string name="menu_other_apps">अन्य ऐप्स</string>
+  <string name="hint_value">मान</string>
+  <string name="hint_from_unit">स्रोत इकाई</string>
+  <string name="hint_to_unit">लक्ष्य इकाई</string>
+  <string name="btn_swap">बदलें</string>
+  <string name="result">परिणाम</string>
+  <string name="settings_title">सेटिंग्स</string>
+  <string name="pref_ads">विज्ञापन</string>
+  <string name="pref_enable_ads">विज्ञापन चालू करें</string>
+  <string name="pref_banner_id">Banner Ad Unit ID</string>
+  <string name="pref_interstitial_id">Interstitial Ad Unit ID</string>
+  <string name="pref_interstitial_prob">Interstitial संभावना (0–100)</string>
+  <string name="pref_theme">थीम</string>
+  <string name="pref_language">भाषा</string>
+  <string name="theme_system">सिस्टम</string>
+  <string name="theme_light">लाइट</string>
+  <string name="theme_dark">डार्क</string>
+  <string name="other_apps_title">अन्य ऐप्स</string>
+  <string name="open_developer_page">डेवलपर पेज खोलें</string>
+</resources>
